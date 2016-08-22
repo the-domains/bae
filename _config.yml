@@ -1,4 +1,3 @@
-layout_spectrum: 0.7923298028763384
 typography_spectrum: 0.7483636571560055
 color:
   brandStrength: 0.005447391653433442
@@ -6,9 +5,11 @@ color:
   saturation: 0.8358846760820597
   rhythmicContrast: 0.9688293752260506
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+layout_spectrum: 0.7923298028763384
 name: Bae
+title: Bae
